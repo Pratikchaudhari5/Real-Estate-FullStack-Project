@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-x775cyry0ximrwhk.us.auth0.com"
     clientId="qrkGlrp6evVJ5BpPdQm2XAVCbEwQXpfz"
     authorizationParams={{
-      redirect_uri: "real-estate-full-stack-project-sandy.vercel.app"
+      redirect_uri: "https://real-estate-full-stack-project-eight.vercel.app"
     }}
     audience="http://localhost:8000"
     scope="openid profile email"
