@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-x775cyry0ximrwhk.us.auth0.com"
     clientId="qrkGlrp6evVJ5BpPdQm2XAVCbEwQXpfz"
     authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://real-estate-full-git-988a7d-pratik-chaudharis-projects-bc81d5ff.vercel.app"
     }}
     audience="http://localhost:8000"
     scope="openid profile email"
