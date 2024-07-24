@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     audience="http://localhost:8000"
     scope="openid profile email"
     >
-    <App />
+    <App />  
     </Auth0Provider>
   </React.StrictMode>
 );
