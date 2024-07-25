@@ -46,13 +46,13 @@ if(validateLogin()){
         <NavLink to="/properties">Properties</NavLink>
         <a href="mailto:pratikchaudhari5321@gmail.com">Contact</a>
        
-        {/* add property  */}
-        <div  onClick={handleAddPropertyClick}> Add Property </div>
+        {/* add property - currently disabled  */} 
+        {/* <div  onClick={handleAddPropertyClick}> Add Property </div>
         <AddPropertyModal
         opened={modalOpened}
         setOpened={setModalOpened}
 
-        />
+        /> */}
 
        {/* login button */}
       { 
