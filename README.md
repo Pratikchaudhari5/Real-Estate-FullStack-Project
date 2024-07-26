@@ -1,7 +1,7 @@
 # Homyz - Real Estate Web Application  🏡
 ## Overview
-Homyz is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book, and explore various properties for sale or rent. The application offers a user-friendly interface, advanced search options, secure authentication, and integration with interactive maps for location services.
-**LIVE LINK** : (https://real-estate-full-stack-project.vercel.app/)
+Homyz is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book, and explore various properties for sale. The application offers a user-friendly interface, advanced search options, secure authentication, and integration with interactive maps for location services.        
+**LIVE LINK** : (https://real-estate-full-stack-project.vercel.app/)            
 ## Features ✨
 🏠 **Property Listings:** View a wide range of property listings with detailed information, including descriptions, prices, addresses, images and more.             
 🔍 **Advanced Search:** Customize your property search by country, city, address, etc.         
@@ -15,7 +15,7 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 ## Technology Stack 🛠️ (MERN)     
 **Frontend:** HTML , CSS, JavaScript, React JS        
 **Backend:** Node.js, Express.js       
-**Database: ** MongoDB         
+**Database:** MongoDB         
 **Authentication:** Google OAuth      
 **Maps:** Leaflet
  
