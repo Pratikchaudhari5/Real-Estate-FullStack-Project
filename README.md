@@ -6,7 +6,7 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 🏠 **Property Listings:** View a wide range of property listings with detailed information, including descriptions, prices, addresses, images and more.<br>             
 🔍 **Advanced Search:** Customize your property search by country, city, address, etc. <br>        
 👤 **User Profiles:**  Registered users can create and manage their profiles with profile pictures. <br>       
-🔐 **Authentication:** Secure user registration and login functionality with Google OAuth.  <br>     
+🔐 **Authentication:** Secure user registration and login functionality with Google OAuth.  <br>     d
 📅 **Book Your Visit:** Users can select a date to book a visit to the property.  <br>        
 🗺️ **Maps and Location Information:** Interactive maps show the location of properties, nearby amenities (schools, restaurants, hospitals), transportation options, and other points of interest.      <br>
 
